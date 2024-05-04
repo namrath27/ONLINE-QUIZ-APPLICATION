@@ -1,27 +1,23 @@
-# QuizApp-Java
+# ONLINE-QUIZ-APPLICATION
 
-An application for conducting quiz for students.
+An application for conducting quiz for students and users.
 
 ---
 
-
-
-
-
 ## Scenerio
-1. Run the application from netbeans
-2. Login as admin (username: admin	password: admin)
-3. Add a student (username: alex	password: alex)
-4. Add a question
-5. View marks of all student
-6. close and run the app again and login as student this time
+1. To begin, run the application from NetBeans.
+2. Next, log in as an admin  (eg.username: admin and password admin)
+3. After logging in, add a student (username: alex and password alex)
+4. Proceed to add questions to the question bank.
+5. Admins can also view the marks of all students.
+6. Close and run the app again; this time, log in as a student.
 7. participate in exam
-8. you will see marks at the end of exam
+8. After completing the exam, you'll be able to view your marks.
 
 ## How to run this project
-- download Netbeans (8.2 or greater version)
+- To run, download Netbeans (8.2 or greater version)
 - clone this repo and open it from netbeans using File->Open Project
-- press the green run button
+- press the green run button to execute.
 
 ## Technology used:
 - Java 8
@@ -29,13 +25,13 @@ An application for conducting quiz for students.
 - Netbeans 8.2
 
 ## Admin Features:
-  - Admin can add students
+  - Admins have the capability to enroll new students.
   - Add Questions to question bank
-  - View marks of student
+  - Admins can acceses and review marks of students.
   
 ## Student Features:
-  - Can participate in exam
-  - View result instantly after exam
+  - Students can participate in exam.
+  - View result instantly after exam.
   
 
 ## Admin credential:
@@ -51,4 +47,4 @@ An application for conducting quiz for students.
 - Question are located in resources/databases/questions.json
 
 ## Marks
-- Marks are located in resources/databases/users.json
+- Marks are located in resources/databases/users.jso
